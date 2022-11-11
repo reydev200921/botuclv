@@ -4,9 +4,9 @@ API_HASH = 'c0a4d9a7e42a2bf949e227bfbf59f8cf'
 
 
 # DATOS DEL MOODLE
-USUARIO = 'pcarrazana'
-PASSWORD = 'sims.9812'
-USUARIO_ID = 2830
+USUARIO = 'ermederos'
+PASSWORD = 'EMv@1021'
+USUARIO_ID = 14339
 ZIP_MB = 398
 MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [5257382960]
