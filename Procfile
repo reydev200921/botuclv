@@ -1,2 +1,2 @@
 worker: python3 app.py
-ps:scale worker=1
+web: -m python http.server $PORT
